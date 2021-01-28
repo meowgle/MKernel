@@ -20,4 +20,4 @@ to get started add the file to the IDE
 then drop your code at the bottom and thats all
 this kernel is opensorce and you can fix bugs and more
 this is just experemental so not for serious use 
-so not for a commercial use yet.
+and not for a commercial use yet.
